@@ -1,4 +1,4 @@
-<img src="Img/OIP.webp" alt="Banner" width="80%" height="200px" style="object-fit: cover;" />
+<img src="Img/Marlene.png" alt="Banner" width="100%"/>
 
 # ¡Hola! aquí! Eyther Marlene Ortiz 👋
 
