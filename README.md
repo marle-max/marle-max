@@ -2,7 +2,7 @@
 
 # ¡Hola! aquí! Eyther Marlene Ortiz 👋
 
-Soy desarrollador Full-Stack.
+ Desarrollador Full-Stack en formacion.
 
 ### Sobre mi
 - Sigo preparándome en desarrollo de Web FullStack en ConquerBlocks  
