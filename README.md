@@ -1,13 +1,13 @@
 <img src="Img/OIP.webp" alt="Banner" width="100%" />
 
-# Aquí! Eyther Marlene Ortiz 👋
+# ¡Hola! 👋 Aquí Eyther Marlene Ortiz 
 
-Soy desarrollador Full-Stack.
+Desarrollador Full-Stack en formacion.
 
 ### Sobre mi
-- Sigo preparándome en desarrollo de Web FullStack en ConquerBlocks  
-- Alto sentido de la responsabilidad, trabajo en equipo, muy competitiva  
-- Poseo mucha experiencia trabajando en equipo para lograr un solo objetivo  
+- Sigo preparándome en desarrollo de Web FullStack en ConquerBlocks.
+- Tengo un alto sentido de  responsabilidad, trabajo en equipo, muy competitiva.  
+- Poseo mucha experiencia trabajando en equipo para lograr obejetivos comunes. 
 
 ## Herramientas y tecnologías
 - Diseño: Figma, Adobe XD  
@@ -15,5 +15,5 @@ Soy desarrollador Full-Stack.
 - Backend: Python, Django  
 
 ### contacto 📬
-- Email: eortizv03@gmail.com  
-- Phone: 571-550-4270  
+- 📧 Email: eortizv03@gmail.com
+- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/eytherortiz/)
